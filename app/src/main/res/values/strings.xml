@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kikuyu</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members and Gender</string>
+
+    <string name="category_greetings">Greetings!</string>
+
+    <string name= "category_days_of_the_week"> Days of the Week and Time</string>
+
+    <string name= "category_bodyParts"> Body Parts </string>
+
+
+
+
+</resources>
